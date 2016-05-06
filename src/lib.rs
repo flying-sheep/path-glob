@@ -1,3 +1,7 @@
+//! Glob methods for [`Path`](https://doc.rust-lang.org/std/path/struct.Path.html) and friends.
+//! 
+//! * [GitHub repo](https://github.com/flying-sheep/path-glob)
+
 extern crate glob;
 
 use std::path::Path;

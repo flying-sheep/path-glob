@@ -4,9 +4,9 @@ version = '1.0.0'
 authors = ['Philipp A. <flying-sheep@web.de>']
 
 description = 'A convenience trait allowing to use an (r)glob method on AsRef<Path>'
-license = 'GPLv3'
+license = 'GPL-3.0'
 
-documentation = 'flying-sheep.github.io/path-glob'
+documentation = 'https://flying-sheep.github.io/path-glob'
 homepage = 'https://github.com/flying-sheep/path-glob'
 repository = 'https://github.com/flying-sheep/path-glob.git'
 
