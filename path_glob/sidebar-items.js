@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Glob","A trait providing glob methods."]]});
