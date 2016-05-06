@@ -1,0 +1,14 @@
+[package]
+name = 'path-glob'
+version = '1.0.0'
+authors = ['Philipp A. <flying-sheep@web.de>']
+
+description = 'A convenience trait allowing to use an (r)glob method on AsRef<Path>'
+license = 'GPLv3'
+
+documentation = 'flying-sheep.github.io/path-glob'
+homepage = 'https://github.com/flying-sheep/path-glob'
+repository = 'https://github.com/flying-sheep/path-glob.git'
+
+[dependencies]
+glob = '0.2.11'
