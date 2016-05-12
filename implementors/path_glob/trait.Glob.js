@@ -1,5 +1,5 @@
 (function() {var implementors = {};
-implementors['glob'] = ["impl <a class='trait' href='https://doc.rust-lang.org/nightly/core/iter/trait.Iterator.html' title='core::iter::Iterator'>Iterator</a> for <a class='struct' href='glob/struct.Paths.html' title='glob::Paths'>Paths</a>",];
+implementors["path_glob"] = [];
 
             if (window.register_implementors) {
                 window.register_implementors(implementors);
